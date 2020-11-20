@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{index.html}
+==Tongzhou Mu 木同舟
+
+~~~
+{}{img_left}{photos/tmu.jpg}{Tongzhou Mu}{160}{160}
+Ph.D. student,\n
+[https://cse.ucsd.edu/ Department of Computer Science and Engineering],\n
+[https://www.ucsd.edu/ University of California San Diego]\n
+Email: t3mu \[@\] eng \[DOT\] ucsd \[DOT\] edu\n
+[https://scholar.google.com/citations?user=uVsZydYAAAAJ&hl=en Google Scholar] / [https://dblp.org/pid/183/0943.html DBLP]
+~~~
+
+== About me
+I am a Ph.D. student in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
+My research interests are broadly in reinforcement learning and concepts discovery. 
+
+Prior to strating as a Ph.D. student, I received my B.Eng. and M.Sc. degrees in computer science from [https://www.zju.edu.cn/english/ Zhejiang University], and [https://www.ucsd.edu/ UC San Diego] in 2017 and 2019, respectively.
+I have also spent time at [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ Microsoft Research Asia], [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel AI] and [https://research.wormpex.com/ Wormpex AI].
+
+== Research interests
+My research interests include 
+- Reinforcement Learning
+    -- Object-centric RL
+    -- Model-based RL
+    -- Curriculum in RL
+- Concepts Discovery
+    -- Emergent Concepts in Task Completion
+    -- Reasoning over Concepts
+
+== Publications 
+- [https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]\n
+*Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
+/Conference on Neural Information Processing Systems (NeurIPS) 2020/\n
+[https://jiayuan-gu.github.io/policy-refactorization \[Project Page\]]
+[https://jiayuan-gu.github.io/policy-refactorization/files/poster_policy_refactorization.pdf \[Poster\]]
+[https://github.com/Jiayuan-Gu/policy-refactorization \[Code\]]\n
+
+- [https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]\n
+Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
+/International Conference on Learning Representations (ICLR) 2020/\n
+
+- [https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]\n
+Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
+/Deep Reinforcement Learning Workshop at NeurIPS 2018/\n
+
+- [https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]\n
+Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
+/International Joint Conference on Artificial Intelligence (IJCAI) 2017/\n
+
+- [https://www.ijcai.org/Proceedings/16/Papers/284.pdf Adaptive Variance Reducing for Stochastic Gradient Descent]\n
+Zebang Shen, Hui Qian, Tengfei Zhou, *Tongzhou Mu*\n
+/International Joint Conference on Artificial Intelligence (IJCAI) 2016/\n
+
+== Awards 
+- [https://icpc.global/regionals/results ACM-ICPC (International Collegiate Programming Contest)] Asia Regional Contest *Gold Medal*, 2015
+- [https://www.ccf.org.cn/c/2019-06-11/663599.shtml China Computer Federation Elite Collegiate Award] (top 108 in China), 2016
+
+\n
+
+#[publications.html Full list of publications].
+#\n
+#[cv.pdf A brief cv].
