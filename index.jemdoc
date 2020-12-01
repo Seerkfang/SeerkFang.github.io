@@ -14,10 +14,10 @@ Email: t3mu \[@\] eng \[DOT\] ucsd \[DOT\] edu\n
 
 
 == About me
-I am a Ph.D. student in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
-My research interests are broadly in reinforcement learning and concepts discovery. 
+I am a Ph.D. student in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
+My research interests are broadly in reinforcement learning and concept discovery. 
 
-Prior to strating as a Ph.D. student, I received my B.Eng. and M.Sc. degrees in computer science from [https://www.zju.edu.cn/english/ Zhejiang University], and [https://www.ucsd.edu/ UC San Diego] in 2017 and 2019, respectively.
+Prior to starting as a Ph.D. student, I received my B.Eng. and M.Sc. degrees in computer science from [https://www.zju.edu.cn/english/ Zhejiang University], and [https://www.ucsd.edu/ UC San Diego] in 2017 and 2019, respectively.
 I have also spent time at [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ Microsoft Research Asia], [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel AI] and [https://research.wormpex.com/ Wormpex AI].
 
 == Research interests
@@ -26,7 +26,7 @@ My research interests include
     -- Object-centric RL
     -- Model-based RL
     -- Curriculum in RL
-- Concepts Discovery
+- Concept Discovery
     -- Emergent Concepts in Task Completion
     -- Reasoning over Concepts
 
