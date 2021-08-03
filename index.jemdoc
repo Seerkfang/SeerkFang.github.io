@@ -30,6 +30,13 @@ My research interests include
     -- Emergent Concepts in Task Completion
     -- Reasoning over Concepts
 
+== Preprints
+- [https://arxiv.org/abs/2107.14483 ManiSkill: Learning-from-Demonstrations Benchmark for Generalizable Manipulation Skills]\n
+*Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
+/arXiv Preprint 2021/\n
+[https://github.com/haosulab/ManiSkill \[Code\]]
+[https://sapien.ucsd.edu/challenges/maniskill2021/ \[Challenge Website\]]
+
 == Publications 
 - [https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]\n
 *Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
