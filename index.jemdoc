@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, nodate
 ==Tongzhou Mu 木同舟
 
 ~~~
@@ -10,12 +10,13 @@ Email: t3mu \[@\] eng \[DOT\] ucsd \[DOT\] edu\n
 [https://scholar.google.com/citations?user=uVsZydYAAAAJ&hl=en Google Scholar] / [https://dblp.org/pid/183/0943.html DBLP]
 ~~~
 
-# {{<font color=red size=+0.5>}}I am actively looking for an *internship in summer 2021*. Please feel free to contact me!{{</font>}}
+\n
+{{<font color=red size=+0.5>}}I am looking for an *internship in summer 2022*. Please feel free to contact me!{{</font>}}
 
 
 == About me
 I am a Ph.D. student in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
-My research interests are broadly in reinforcement learning and concept discovery. 
+My research interests are broadly in *reinforcement learning, concept discovery, and robotics*. 
 
 Prior to starting as a Ph.D. student, I received my B.Eng. and M.Sc. degrees in computer science from [https://www.zju.edu.cn/english/ Zhejiang University], and [https://www.ucsd.edu/ UC San Diego] in 2017 and 2019, respectively.
 I have also spent time at 
@@ -33,15 +34,18 @@ My research interests include
 - Concept Discovery
     -- Emergent Concepts in Task Completion
     -- Reasoning over Concepts
-
-== Preprints
-- [https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]\n
-*Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
-/arXiv Preprint 2021/\n
-[https://github.com/haosulab/ManiSkill \[Code\]]
-[https://sapien.ucsd.edu/challenges/maniskill2021/ \[Challenge Website\]]
+- Robotics
+    -- Planning and Control for Manipulation
 
 == Publications 
+- [https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]\n
+*Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
+/Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track 2021/\n
+[https://github.com/haosulab/ManiSkill \[Code\]]
+[https://github.com/haosulab/ManiSkill-Learn \[Baselines\]]
+[https://youtu.be/Lu8DJlnvYkA \[Video\]]
+[https://sapien.ucsd.edu/challenges/maniskill2021/ \[Challenge Website\]]
+
 - [https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]\n
 *Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
 /Conference on Neural Information Processing Systems (NeurIPS) 2020/\n
@@ -67,7 +71,7 @@ Zebang Shen, Hui Qian, Tengfei Zhou, *Tongzhou Mu*\n
 
 == Awards 
 - [https://icpc.global/regionals/results ACM-ICPC (International Collegiate Programming Contest)] Asia Regional Contest *Gold Medal*, 2015
-# - [https://www.ccf.org.cn/c/2019-06-11/663599.shtml China Computer Federation Elite Collegiate Award] (top 108 in China), 2016
+- [https://www.ccf.org.cn/c/2019-06-11/663599.shtml China Computer Federation Elite Collegiate Award] (top 108 in China), 2016
 - Award of Excellence for Stars of Tomorrow Internship Program, Microsoft Research Asia, 2017
 \n
 
