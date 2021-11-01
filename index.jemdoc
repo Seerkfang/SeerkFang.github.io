@@ -11,7 +11,7 @@ Email: t3mu \[@\] eng \[DOT\] ucsd \[DOT\] edu\n
 ~~~
 
 \n
-{{<font color=red size=+0.5>}}I am looking for an *internship in summer 2022*. Please feel free to contact me!{{</font>}}
+{{<font color=red size=+0.5>}}I am looking for a *research internship in summer 2022*. Please feel free to contact me!{{</font>}}
 
 
 == About me
@@ -38,40 +38,65 @@ My research interests include
     -- Planning and Control for Manipulation
 
 == Publications 
-- [https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]\n
+~~~
+{}{img_left}{figures/mani_skill.jpg}{ManiSkill}{207}
+[https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]\n
 *Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
 /Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track 2021/\n
+[https://drive.google.com/file/d/127NOQigxP7bTZ8USxBJd_eOKxNeju4em/view?usp=sharing \[Video\]]
+[https://drive.google.com/file/d/10CWlGUbtFXPek0p3HRpYdnVZM1asi0wO/view?usp=sharing \[Slides\]]
 [https://github.com/haosulab/ManiSkill \[Code\]]
 [https://github.com/haosulab/ManiSkill-Learn \[Baselines\]]
-[https://youtu.be/Lu8DJlnvYkA \[Video\]]
 [https://sapien.ucsd.edu/challenges/maniskill2021/ \[Challenge Website\]]
+~~~
 
-- [https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]\n
+#\n
+~~~
+{}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{207}
+[https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]\n
 *Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
 /Conference on Neural Information Processing Systems (NeurIPS) 2020/\n
 [https://jiayuan-gu.github.io/policy-refactorization \[Project Page\]]
 [https://jiayuan-gu.github.io/policy-refactorization/files/poster_policy_refactorization.pdf \[Poster\]]
+[https://jiayuan-gu.github.io/policy-refactorization/files/slides_policy_refactorization.pdf \[Slides\]]
 [https://github.com/Jiayuan-Gu/policy-refactorization \[Code\]]\n
+~~~
 
-- [https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]\n
+#\n
+~~~
+{}{img_left}{figures/sail.png}{sail}{207}
+[https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]\n
 Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
 /International Conference on Learning Representations (ICLR) 2020/\n
+~~~
 
-- [https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]\n
+#\n
+~~~
+{}{img_left}{figures/value_transfer.jpg}{value_transfer}{207}
+[https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]\n
 Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
 /Deep Reinforcement Learning Workshop at NeurIPS 2018/\n
+~~~
 
-- [https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]\n
+#\n
+~~~
+{}{img_left}{figures/doubly_sgd.jpg}{doubly_sgd}{207}
+[https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]\n
 Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
 /International Joint Conference on Artificial Intelligence (IJCAI) 2017/\n
+~~~
 
-- [https://www.ijcai.org/Proceedings/16/Papers/284.pdf Adaptive Variance Reducing for Stochastic Gradient Descent]\n
-Zebang Shen, Hui Qian, Tengfei Zhou, *Tongzhou Mu*\n
-/International Joint Conference on Artificial Intelligence (IJCAI) 2016/\n
+#\n
+~~~
+{}{img_left}{figures/adaptive_vr.jpg}{adaptive_vr}{207}
+[https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]\n
+Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
+/International Joint Conference on Artificial Intelligence (IJCAI) 2017/\n
+~~~
 
 == Awards 
 - [https://icpc.global/regionals/results ACM-ICPC (International Collegiate Programming Contest)] Asia Regional Contest *Gold Medal*, 2015
-- [https://www.ccf.org.cn/c/2019-06-11/663599.shtml China Computer Federation Elite Collegiate Award] (top 108 in China), 2016
+- [https://www.ccf.org.cn/c/2019-06-11/663599.shtml\#:~:text=The%20award%20is%20for%20100,social%20activities%20and%20commonweal%20activities China Computer Federation Elite Collegiate Award] (top 108 in China), 2016
 - Award of Excellence for Stars of Tomorrow Internship Program, Microsoft Research Asia, 2017
 \n
 
