@@ -30,20 +30,20 @@ I have also spent time at
 
 == Research interests
 My research interests include 
-- Reinforcement Learning
+- *Reinforcement Learning*
     -- Object-centric RL
     -- Model-based RL
     -- Curriculum in RL
-- Concept Discovery
+- *Concept Discovery*
     -- Emergent Concepts in Task Completion
     -- Reasoning over Concepts
-- Robotics
+- *Robotics*
     -- Planning and Control for Manipulation
 
 == Publications 
 ~~~
 {}{img_left}{figures/mani_skill.jpg}{ManiSkill}{207}
-[https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]\n
+*[https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]*\n
 *Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
 /Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track 2021/\n
 [https://drive.google.com/file/d/127NOQigxP7bTZ8USxBJd_eOKxNeju4em/view?usp=sharing \[Video\]]
@@ -56,7 +56,7 @@ My research interests include
 #\n
 ~~~
 {}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{207}
-[https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]\n
+*[https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]*\n
 *Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
 /Conference on Neural Information Processing Systems (NeurIPS) 2020/\n
 [https://jiayuan-gu.github.io/policy-refactorization \[Project Page\]]
@@ -68,7 +68,7 @@ My research interests include
 #\n
 ~~~
 {}{img_left}{figures/sail.png}{sail}{207}
-[https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]\n
+*[https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]*\n
 Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
 /International Conference on Learning Representations (ICLR) 2020/\n
 ~~~
@@ -76,7 +76,7 @@ Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
 #\n
 ~~~
 {}{img_left}{figures/value_transfer.jpg}{value_transfer}{207}
-[https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]\n
+*[https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]*\n
 Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
 /Deep Reinforcement Learning Workshop at NeurIPS 2018/\n
 ~~~
@@ -84,7 +84,7 @@ Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
 #\n
 ~~~
 {}{img_left}{figures/doubly_sgd.jpg}{doubly_sgd}{207}
-[https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]\n
+*[https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]*\n
 Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
 /International Joint Conference on Artificial Intelligence (IJCAI) 2017/\n
 ~~~
@@ -92,17 +92,21 @@ Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
 #\n
 ~~~
 {}{img_left}{figures/adaptive_vr.jpg}{adaptive_vr}{207}
-[https://www.ijcai.org/Proceedings/16/Papers/284.pdf Adaptive Variance Reducing for Stochastic Gradient Descent.]\n
+*[https://www.ijcai.org/Proceedings/16/Papers/284.pdf Adaptive Variance Reducing for Stochastic Gradient Descent]*\n
 Zebang Shen, Hui Qian, Tengfei Zhou, and *Tongzhou Mu*\n
 /International Joint Conference on Artificial Intelligence (IJCAI) 2016/\n
 ~~~
 
 == Professional Services
-- Leading Organizer of [https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/ ICLR 2022 Workshop "Generalizable Policy Learning in the Physical World"]
-- Conference Reviewer: ICLR 2021, ICCV 2021, ICRA 2022
+- *Workshop Organizer*: [https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/ ICLR 2022 Workshop "Generalizable Policy Learning in the Physical World"]
+- *Conference Reviewer*: ICLR 2021, ICCV 2021, ICRA 2022
 
 == Teaching
-- I was a Teaching Assistant for /CSE 152 Introduction to Computer Vision (Fall 2018)/ at UC San Diego
+- *Teaching Assistant*: CSE 152 Introduction to Computer Vision (Fall 2018) at UC San Diego
+
+== Talks
+- *ManiSkill Benchmark*, /Invited Talk at UC Berkeley & Stanford/, Nov&Dec 2021. [https://drive.google.com/file/d/1ls37WFQ2Y0aitBYNLir5SjlJM-Euy6Rh/view?usp=sharing \[Slides\]]
+- *Concepts and Graph-based Reasoning*, /Workshop at Qualcomm/, Mar 2020. [https://youtu.be/HJfC22D4a7M?t=237 \[Video\]]
 
 == Awards 
 - [https://icpc.global/regionals/results ACM-ICPC (International Collegiate Programming Contest)] Asia Regional Contest *Gold Medal*, 2015
