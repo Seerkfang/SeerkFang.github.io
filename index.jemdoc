@@ -9,17 +9,19 @@ Ph.D. student,\n
 Email: t3mu \[@\] eng \[DOT\] ucsd \[DOT\] edu\n
 [https://scholar.google.com/citations?user=uVsZydYAAAAJ&hl=en Google Scholar] \/ 
 [https://dblp.org/pid/183/0943.html DBLP] \/ 
+[https://twitter.com/tongzhou_mu Twitter] \/
 [https://github.com/tongzhoumu Github] \/ 
 [https://www.linkedin.com/in/tongzhou-mu-4ab269ba/ LinkedIn]
 ~~~
 
 \n
-# {{<font color=red size=+0.5>}}I am looking for a *research internship in summer 2022*. Please feel free to contact me!{{</font>}}
+{{<font color=red size=+0.5>}}I am looking for a *research internship in summer 2023*. Please feel free to contact me!{{</font>}}
 
 
 == About me
 I am a Ph.D. student in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
-My research interests are broadly in *reinforcement learning, concept discovery, and robotics*. 
+My long-term research goal is to *build a decision-making framework with strong generalizability*. 
+Specifically, I am interested in *Reinforcement Learning \/ Imitation Learning, Concept Discovery and Reasoning, and Robotics \/ Embodied AI*. 
 
 Prior to starting as a Ph.D. student, I received my B.Eng. and M.Sc. degrees in computer science from [https://www.zju.edu.cn/english/ Zhejiang University], and [https://www.ucsd.edu/ UC San Diego] in 2017 and 2019, respectively.
 I have also spent time at 
@@ -28,17 +30,23 @@ I have also spent time at
 [https://research.wormpex.com/ Wormpex AI]
 , and [https://www.amazon.jobs/en/teams/alexa-ai Amazon Alexa AI].
 
+I am the major contributor of the [https://github.com/haosulab/ManiSkill ManiSkill benchmark], 
+and the lead organzier of the [https://sapien.ucsd.edu/challenges/maniskill2021/ ManiSkill Challenge 2021] and the [https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/ Generalizable Policy Learning in the Physical World Workshop].
+
+
 == Research interests
 My research interests include 
-- *Reinforcement Learning*
-    -- Object-centric RL
-    -- Model-based RL
+- *Reinforcement Learning \/ Imitation Learning*
+    -- Demo-Assisted Reinforcement Learning
+    -- Inverse RL and Reward Shaping
+    -- Point Cloud-based Deep RL \/ IL
     -- Curriculum in RL
 - *Concept Discovery*
     -- Emergent Concepts in Task Completion
     -- Reasoning over Concepts
-- *Robotics*
+- *Robotics \/ Embodied AI*
     -- Planning and Control for Manipulation
+    -- Building Tasks in Simulation
 
 == Publications 
 ~~~
@@ -106,15 +114,6 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 *Tongzhou Mu*, Kaixiang Lin, Feiyang Niu, Govind Thattai\n
 /arXiv Preprint 2022/\n
 
-== Professional Services
-- *Workshop Organizer*: [https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/ ICLR 2022 Workshop "Generalizable Policy Learning in the Physical World"]
-- *Tutorial Organizer*: [https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/ CVPR 2022 Tutorial "Building and Working in Environments for Embodied AI"]
-- *Conference Reviewer*: ICLR 2021, ICCV 2021, ICRA 2022, IROS 2022, NeurIPS dataset track 2022, AAAI 2023
-- *Journal Reviewer*: RA-L
-
-== Teaching
-- *Teaching Assistant*: CSE 152 Introduction to Computer Vision (Fall 2018) at UC San Diego
-
 == Talks
 - [https://drive.google.com/file/d/1ls37WFQ2Y0aitBYNLir5SjlJM-Euy6Rh/view?usp=sharing *ManiSkill Benchmark*]\n
 /UC Berkeley Robot Learning Lab/, ~~~Nov 2021\n
@@ -122,6 +121,15 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 
 - [https://youtu.be/HJfC22D4a7M?t=237 *Concepts and Graph-based Reasoning*]\n
 /Qualcomm/, Mar 2020
+
+== Professional Services
+- *Workshop Organizer*: [https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/ ICLR 2022 Workshop "Generalizable Policy Learning in the Physical World"]
+- *Tutorial Organizer*: [https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/ CVPR 2022 Tutorial "Building and Working in Environments for Embodied AI"]
+- *Conference Reviewer*: ICLR, NeurIPS, ICRA, IROS, ICCV, AAAI
+- *Journal Reviewer*: RA-L
+
+== Teaching
+- *Teaching Assistant*: CSE 152 Introduction to Computer Vision (Fall 2018) at UC San Diego
 
 == Awards 
 - [https://icpc.global/regionals/results ACM-ICPC (International Collegiate Programming Contest)] Asia Regional Contest *Gold Medal*, 2015
