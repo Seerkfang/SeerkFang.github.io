@@ -48,39 +48,88 @@ My research interests include
     -- Planning and Control for Manipulation
     -- Building Tasks in Simulation
 
-== Publications 
+== Publications & Preprints
+Papers sorted by years. Representative papers are {{<span style="background-color:LemonChiffon">}}highlighted{{</span>}}.
+
+=== 2022
+
+~~~
+{}{img_left}{figures/skill_trans.gif}{skill_trans}{207}
+{{<span style="background-color:LemonChiffon">}}
+*[https://arxiv.org/abs/2210.07658 Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization]*\n
+Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
+/ArXiv preprint, Submitted to ICLR 2023/\n
+[https://trajectorytranslation.github.io/ \[Project Page\]]
+[https://www.youtube.com/watch?v=M1NA5j6DWHs \[Video\]]\n
+\* Stone Tao and Xiaochen Li are undergruduate students I advised
+{{</span>}}
+~~~
+
+~~~
+{}{img_left}{figures/maniskill2.png}{maniskill2}{207}
+*[https://openreview.net/pdf?id=b_CQDy9vrD1 ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills]*\n
+Jiayuan Gu, Fanbo Xiang, Zhan Ling, Xinyue Wei, Xiqiang Liu, Xuanlin Li, Rui Chen, Stone Tao, *Tongzhou Mu*, Pengwei Xie, Yunchao Yao, Yihe Tang, Xiaodi Yuan, Zhiao Huang, Hao Su\n
+/Submitted to ICLR 2023/\n
+[https://github.com/haosulab/ManiSkill2 \[Code\]]
+[https://sapien.ucsd.edu/challenges/maniskill2022/ \[Challenge Website\]]
+~~~
 
 ~~~
 {}{img_left}{figures/inter_rl.png}{inter_rl}{207}
 *[https://arxiv.org/abs/2201.08520 Learning Two-Step Hybrid Policy for Graph-Based Interpretable Reinforcement Learning]*\n
 *Tongzhou Mu*, Kaixiang Lin, Feiyang Niu, Govind Thattai\n
-/Transactions on Machine Learning Research (TMLR) 2022/\n
+/Transactions on Machine Learning Research *(TMLR)* 2022/\n
+/Elements of Reasoning: Objects, Structure, and Causality Workshop at *ICLR* 2022/\n
 ~~~
 
+=== 2021
 
 ~~~
 {}{img_left}{figures/mani_skill.jpg}{ManiSkill}{207}
+{{<span style="background-color:LemonChiffon">}}
 *[https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]*\n
 *Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
-/Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track 2021/\n
+/Conference on Neural Information Processing Systems *(NeurIPS)* Datasets and Benchmarks Track 2021/\n
 [https://drive.google.com/file/d/127NOQigxP7bTZ8USxBJd_eOKxNeju4em/view?usp=sharing \[Video\]]
 [https://drive.google.com/file/d/10CWlGUbtFXPek0p3HRpYdnVZM1asi0wO/view?usp=sharing \[Slides\]]
 [https://drive.google.com/file/d/1aY6C6smsA6B02JCVEWB_mV58VlaUpum0/view?usp=sharing \[Poster\]]
 [https://github.com/haosulab/ManiSkill \[Code\]]
 [https://github.com/haosulab/ManiSkill-Learn \[Baselines\]]
 [https://sapien.ucsd.edu/challenges/maniskill2021/ \[Challenge Website\]]
+{{</span>}}
 ~~~
 
-#\n
+~~~
+{}{img_left}{figures/active.png}{active}{207}
+*[https://arxiv.org/abs/2201.11924 Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation]*\n
+Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, *Tongzhou Mu*, Jing Xu, Hao Su\n
+/ArXiv preprint, Submitted to T-RO/\n
+~~~
+
+=== 2020
+
+#~~~
+#{}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{207}
+#*[https://arxiv.org/abs/2011.00971 {{<font color=orange>}}Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals {{</font>}}]*\n
+#*Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
+#/Conference on Neural Information Processing Systems *(NeurIPS)* 2020/\n
+#[https://jiayuan-gu.github.io/policy-refactorization \[Project Page\]]
+#[https://jiayuan-gu.github.io/policy-refactorization/files/poster_policy_refactorization.pdf \[Poster\]]
+#[https://jiayuan-gu.github.io/policy-refactorization/files/slides_policy_refactorization.pdf \[Slides\]]
+#[https://github.com/Jiayuan-Gu/policy-refactorization \[Code\]]\n
+#~~~
+
 ~~~
 {}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{207}
+{{<span style="background-color:LemonChiffon">}}
 *[https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]*\n
 *Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
-/Conference on Neural Information Processing Systems (NeurIPS) 2020/\n
+/Conference on Neural Information Processing Systems *(NeurIPS)* 2020/\n
 [https://jiayuan-gu.github.io/policy-refactorization \[Project Page\]]
 [https://jiayuan-gu.github.io/policy-refactorization/files/poster_policy_refactorization.pdf \[Poster\]]
 [https://jiayuan-gu.github.io/policy-refactorization/files/slides_policy_refactorization.pdf \[Slides\]]
 [https://github.com/Jiayuan-Gu/policy-refactorization \[Code\]]\n
+{{</span>}}
 ~~~
 
 #\n
@@ -88,15 +137,18 @@ My research interests include
 {}{img_left}{figures/sail.png}{sail}{207}
 *[https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]*\n
 Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
-/International Conference on Learning Representations (ICLR) 2020/\n
+/International Conference on Learning Representations *(ICLR)* 2020/\n
 ~~~
+
+\n
+=== Before 2019
 
 #\n
 ~~~
 {}{img_left}{figures/value_transfer.jpg}{value_transfer}{207}
 *[https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]*\n
 Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
-/Deep Reinforcement Learning Workshop at NeurIPS 2018/\n
+/Deep Reinforcement Learning Workshop at *NeurIPS* 2018/\n
 ~~~
 
 #\n
@@ -104,7 +156,7 @@ Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
 {}{img_left}{figures/doubly_sgd.jpg}{doubly_sgd}{207}
 *[https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]*\n
 Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
-/International Joint Conference on Artificial Intelligence (IJCAI) 2017/\n
+/International Joint Conference on Artificial Intelligence *(IJCAI)* 2017/\n
 ~~~
 
 #\n
@@ -112,39 +164,30 @@ Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
 {}{img_left}{figures/adaptive_vr.jpg}{adaptive_vr}{207}
 *[https://www.ijcai.org/Proceedings/16/Papers/284.pdf Adaptive Variance Reducing for Stochastic Gradient Descent]*\n
 Zebang Shen, Hui Qian, Tengfei Zhou, and *Tongzhou Mu*\n
-/International Joint Conference on Artificial Intelligence (IJCAI) 2016/\n
+/International Joint Conference on Artificial Intelligence *(IJCAI)* 2016/\n
 ~~~
 
-== Preprints
-- [https://arxiv.org/abs/2210.07658 Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization]\n
-Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
-/Submitted to ICLR 2023/\n
-[https://trajectorytranslation.github.io/ \[Project Page\]]\n
-- [https://openreview.net/pdf?id=b_CQDy9vrD1 ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills]\n
-Jiayuan Gu, Fanbo Xiang, Zhan Ling, Xinyue Wei, Xiqiang Liu, Xuanlin Li, Rui Chen, Stone Tao, *Tongzhou Mu*, Pengwei Xie, Yunchao Yao, Yihe Tang, Xiaodi Yuan, Zhiao Huang, Hao Su\n
-/Submitted to ICLR 2023/\n
-[https://github.com/haosulab/ManiSkill2 \[Code\]]
-[https://sapien.ucsd.edu/challenges/maniskill2022/ \[Challenge Website\]]
-- [https://arxiv.org/abs/2201.11924 Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation]\n
-Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, *Tongzhou Mu*, Jing Xu, Hao Su\n
-/Submitted to T-RO/\n
 
 == Talks
-- [https://drive.google.com/file/d/1ls37WFQ2Y0aitBYNLir5SjlJM-Euy6Rh/view?usp=sharing *ManiSkill Benchmark*]\n
+- [https://drive.google.com/file/d/1ls37WFQ2Y0aitBYNLir5SjlJM-Euy6Rh/view?usp=sharing *Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations*]\n
 /UC Berkeley Robot Learning Lab/, ~~~Nov 2021\n
 /Stanford Vision and Learning Lab/, ~Dec 2021
 
-- [https://youtu.be/HJfC22D4a7M?t=237 *Concepts and Graph-based Reasoning*]\n
-/Qualcomm/, Mar 2020
+- [https://youtu.be/HJfC22D4a7M?t=237 *Task-driven Entity Abstraction from Visual Observations*]\n
+/Qualcomm AI Lab/, Mar 2020
 
 == Professional Services
 - *Workshop Organizer*: [https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/ ICLR 2022 Workshop "Generalizable Policy Learning in the Physical World"] (*Lead Organzier*)
 - *Tutorial Organizer*: [https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/ CVPR 2022 Tutorial "Building and Working in Environments for Embodied AI"]
+- *Challenge Organizer*: 
+    -- [https://sapien.ucsd.edu/challenges/maniskill/2021/ SAPIEN ManiSkill Challenge 2021] (*Lead Organzier*)
+    -- [https://sapien.ucsd.edu/challenges/maniskill/2022/ SAPIEN ManiSkill Challenge 2022]
 - *Conference Reviewer*: ICLR, NeurIPS, ICRA, IROS, ICCV, AAAI
 - *Journal Reviewer*: RA-L
 
 == Teaching
-- *Teaching Assistant*: CSE 152 Introduction to Computer Vision (Fall 2018) at UC San Diego
+- *Consultant Volunteer*: CSE291-J00 Deep Learning Lab (Computer Vision) at UC San Diego, Fall 2020
+- *Teaching Assistant*: CSE 152 Introduction to Computer Vision at UC San Diego, Fall 2018
 
 == Awards 
 - [https://icpc.global/regionals/results ACM-ICPC (International Collegiate Programming Contest)] Asia Regional Contest *Gold Medal*, 2015
