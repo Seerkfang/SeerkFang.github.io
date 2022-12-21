@@ -68,7 +68,8 @@ Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
 ~~~
 {}{img_left}{figures/maniskill2.png}{maniskill2}{207}
 *[https://openreview.net/pdf?id=b_CQDy9vrD1 ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills]*\n
-Jiayuan Gu, Fanbo Xiang, Zhan Ling, Xinyue Wei, Xiqiang Liu, Xuanlin Li, Rui Chen, Stone Tao, *Tongzhou Mu*, Pengwei Xie, Yunchao Yao, Yihe Tang, Xiaodi Yuan, Zhiao Huang, Hao Su\n
+Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\* *, Yihe Tang\*, Stone Tao\*, Xinyue Wei\*, Yunchao Yao\*, Xiaodi Yuan, Pengwei Xie, Zhiao Huang, Rui Chen, Hao Su\n
+/\* equally contributed authors are ordered by alphabets/\n
 /Submitted to ICLR 2023/\n
 [https://github.com/haosulab/ManiSkill2 \[Code\]]
 [https://sapien.ucsd.edu/challenges/maniskill2022/ \[Challenge Website\]]
