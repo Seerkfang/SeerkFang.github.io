@@ -66,6 +66,7 @@ Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajesw
 *[https://arxiv.org/abs/2210.07658 Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization]*\n
 Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
 /ArXiv preprint, Submitted to ICLR 2023/\n
+/Deep Rieinforcement Learning Workshop at *NeurIPS* 2022/\n
 [https://trajectorytranslation.github.io/ \[Project Page\]]
 [https://www.youtube.com/watch?v=M1NA5j6DWHs \[Video\]]\n
 \* Stone Tao and Xiaochen Li are undergruduate students I advised
@@ -177,6 +178,9 @@ Zebang Shen, Hui Qian, Tengfei Zhou, and *Tongzhou Mu*\n
 
 
 == Talks
+- [https://drive.google.com/file/d/1lR-TrXGHdO9zgzf8Y8ESRpXSM_KtefGb/view?usp=share_link *On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline*]\n
+/Pre-training Robot Learning Workshop at CoRL 2022/, Dec 2022\n
+
 - [https://drive.google.com/file/d/1ls37WFQ2Y0aitBYNLir5SjlJM-Euy6Rh/view?usp=sharing *Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations*]\n
 /UC Berkeley Robot Learning Lab/, ~~~Nov 2021\n
 /Stanford Vision and Learning Lab/, ~Dec 2021
