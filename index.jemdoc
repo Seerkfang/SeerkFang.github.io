@@ -15,7 +15,7 @@ Email: t3mu \[@\] eng \[DOT\] ucsd \[DOT\] edu\n
 ~~~
 
 \n
-{{<font color=red size=+0.5>}}I am looking for a *research internship in summer 2023*. Please feel free to contact me!{{</font>}}
+# {{<font color=red size=+0.5>}}I am looking for a *research internship in summer 2023*. Please feel free to contact me!{{</font>}}
 
 
 == About me
@@ -51,12 +51,20 @@ My research interests include
 == Publications & Preprints
 Papers sorted by years. Representative papers are {{<span style="background-color:LemonChiffon">}}highlighted{{</span>}}.
 
-=== 2022
+=== 2023
+
+~~~
+{}{img_left}{figures/drs.png}{drs}{207}
+*[https://sites.google.com/view/icml2023drs Learning Reusable Dense Rewards for Multi-Stage Tasks]*\n
+*Tongzhou Mu*, Minghua Liui, Hao Su\n
+/Submitted to ICML 2023/\n
+~~~
 
 ~~~
 {}{img_left}{figures/no_pretrain.png}{no_pretrain}{207}
 *[https://arxiv.org/abs/2212.05749 On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline]*\n
 Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajeswaran\+, Hao Su\+, Huazhe Xu\+, Xiaolong Wang\+\n
+/ArXiv preprint, Submitted to ICML 2023/\n
 /Pre-training Robot Learning Workshop at *CoRL* 2022/\n
 ~~~
 
@@ -65,7 +73,7 @@ Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajesw
 {{<span style="background-color:LemonChiffon">}}
 *[https://arxiv.org/abs/2210.07658 Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization]*\n
 Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
-/ArXiv preprint, Submitted to ICLR 2023/\n
+/ArXiv preprint, Submitted to ICML 2023/\n
 /Deep Rieinforcement Learning Workshop at *NeurIPS* 2022/\n
 [https://trajectorytranslation.github.io/ \[Project Page\]]
 [https://www.youtube.com/watch?v=M1NA5j6DWHs \[Video\]]\n
@@ -78,10 +86,12 @@ Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
 *[https://openreview.net/pdf?id=b_CQDy9vrD1 ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills]*\n
 Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\* *, Yihe Tang\*, Stone Tao\*, Xinyue Wei\*, Yunchao Yao\*, Xiaodi Yuan, Pengwei Xie, Zhiao Huang, Rui Chen, Hao Su\n
 /\* equally contributed authors are ordered by alphabets/\n
-/Submitted to ICLR 2023/\n
+/International Conference on Learning Representations *(ICLR)* 2023/\n
 [https://github.com/haosulab/ManiSkill2 \[Code\]]
 [https://sapien.ucsd.edu/challenges/maniskill2022/ \[Challenge Website\]]
 ~~~
+
+=== 2022
 
 ~~~
 {}{img_left}{figures/inter_rl.png}{inter_rl}{207}
