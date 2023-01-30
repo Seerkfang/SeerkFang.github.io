@@ -56,7 +56,7 @@ Papers sorted by years. Representative papers are {{<span style="background-colo
 ~~~
 {}{img_left}{figures/drs.png}{drs}{207}
 *[https://sites.google.com/view/icml2023drs Learning Reusable Dense Rewards for Multi-Stage Tasks]*\n
-*Tongzhou Mu*, Minghua Liui, Hao Su\n
+*Tongzhou Mu*, Minghua Liu, Hao Su\n
 /Submitted to ICML 2023/\n
 ~~~
 
@@ -91,6 +91,14 @@ Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\
 [https://sapien.ucsd.edu/challenges/maniskill2022/ \[Challenge Website\]]
 ~~~
 
+~~~
+{}{img_left}{figures/active.png}{active}{207}
+*[https://arxiv.org/abs/2201.11924 Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation]*\n
+Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, *Tongzhou Mu*, Jing Xu, Hao Su\n
+/IEEE Transactions on Robotics *(T-RO)* 2023/\n
+~~~
+
+
 === 2022
 
 ~~~
@@ -99,13 +107,6 @@ Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\
 *Tongzhou Mu*, Kaixiang Lin, Feiyang Niu, Govind Thattai\n
 /Transactions on Machine Learning Research *(TMLR)* 2022/\n
 /Elements of Reasoning: Objects, Structure, and Causality Workshop at *ICLR* 2022/\n
-~~~
-
-~~~
-{}{img_left}{figures/active.png}{active}{207}
-*[https://arxiv.org/abs/2201.11924 Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation]*\n
-Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, *Tongzhou Mu*, Jing Xu, Hao Su\n
-/IEEE Transactions on Robotics *(T-RO)* 2022/\n
 ~~~
 
 === 2021
