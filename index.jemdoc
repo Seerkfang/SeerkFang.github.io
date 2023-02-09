@@ -82,17 +82,18 @@ Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
 ~~~
 
 ~~~
-{}{img_left}{figures/maniskill2.png}{maniskill2}{207}
+{}{img_left}{figures/maniskill2.jpg}{maniskill2}{207}
 *[https://openreview.net/pdf?id=b_CQDy9vrD1 ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills]*\n
 Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\* *, Yihe Tang\*, Stone Tao\*, Xinyue Wei\*, Yunchao Yao\*, Xiaodi Yuan, Pengwei Xie, Zhiao Huang, Rui Chen, Hao Su\n
 /\* equally contributed authors are ordered by alphabets/\n
 /International Conference on Learning Representations *(ICLR)* 2023/\n
 [https://github.com/haosulab/ManiSkill2 \[Code\]]
+[https://maniskill2.github.io/ \[Project Page\]]
 [https://sapien.ucsd.edu/challenges/maniskill2022/ \[Challenge Website\]]
 ~~~
 
 ~~~
-{}{img_left}{figures/active.png}{active}{207}
+{}{img_left}{figures/active.jpg}{active}{207}
 *[https://arxiv.org/abs/2201.11924 Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation]*\n
 Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, *Tongzhou Mu*, Jing Xu, Hao Su\n
 /IEEE Transactions on Robotics *(T-RO)* 2023/\n
@@ -102,7 +103,7 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 === 2022
 
 ~~~
-{}{img_left}{figures/inter_rl.png}{inter_rl}{207}
+{}{img_left}{figures/inter_rl.jpg}{inter_rl}{207}
 *[https://arxiv.org/abs/2201.08520 Learning Two-Step Hybrid Policy for Graph-Based Interpretable Reinforcement Learning]*\n
 *Tongzhou Mu*, Kaixiang Lin, Feiyang Niu, Govind Thattai\n
 /Transactions on Machine Learning Research *(TMLR)* 2022/\n
@@ -155,7 +156,7 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 
 #\n
 ~~~
-{}{img_left}{figures/sail.png}{sail}{207}
+{}{img_left}{figures/sail.jpg}{sail}{207}
 *[https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]*\n
 Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
 /International Conference on Learning Representations *(ICLR)* 2020/\n
