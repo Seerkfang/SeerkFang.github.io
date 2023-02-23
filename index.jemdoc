@@ -37,12 +37,11 @@ and the lead organzier of the [https://sapien.ucsd.edu/challenges/maniskill2021/
 == Research interests
 My research interests include 
 - *Reinforcement Learning \/ Imitation Learning*
-    -- Demo-Assisted Reinforcement Learning
-    -- Inverse RL and Reward Shaping
-    -- Point Cloud-based Deep RL \/ IL
+    -- Sturctured Policies and Neural Programs
+    -- Learning from Demonstrations
     -- Curriculum in RL
 - *Concept Discovery*
-    -- Emergent Concepts in Task Completion
+    -- Emerged Concepts from Interactions
     -- Reasoning over Concepts
 - *Robotics \/ Embodied AI*
     -- Planning and Control for Manipulation
