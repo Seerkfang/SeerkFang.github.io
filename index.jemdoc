@@ -53,7 +53,7 @@ Papers sorted by years. Representative papers are {{<span style="background-colo
 === 2023
 
 ~~~
-{}{img_left}{figures/drs.png}{drs}{207}
+{}{img_left}{figures/drs.gif}{drs}{240}
 *[https://sites.google.com/view/icml2023drs Learning Reusable Dense Rewards for Multi-Stage Tasks]*\n
 *Tongzhou Mu*, Minghua Liu, Hao Su\n
 /Submitted to ICML 2023/\n
@@ -61,7 +61,7 @@ Papers sorted by years. Representative papers are {{<span style="background-colo
 ~~~
 
 ~~~
-{}{img_left}{figures/no_pretrain.png}{no_pretrain}{207}
+{}{img_left}{figures/no_pretrain.png}{no_pretrain}{240}
 *[https://arxiv.org/abs/2212.05749 On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline]*\n
 Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajeswaran\+, Hao Su\+, Huazhe Xu\+, Xiaolong Wang\+\n
 /ArXiv preprint, Submitted to ICML 2023/\n
@@ -69,7 +69,7 @@ Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajesw
 ~~~
 
 ~~~
-{}{img_left}{figures/skill_trans.gif}{skill_trans}{207}
+{}{img_left}{figures/skill_trans.gif}{skill_trans}{240}
 {{<span style="background-color:LemonChiffon">}}
 *[https://arxiv.org/abs/2210.07658 Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization]*\n
 Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
@@ -82,7 +82,7 @@ Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
 ~~~
 
 ~~~
-{}{img_left}{figures/maniskill2.jpg}{maniskill2}{207}
+{}{img_left}{figures/ms2_fancy_teaser.jpg}{maniskill2}{240}
 *[https://openreview.net/pdf?id=b_CQDy9vrD1 ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills]*\n
 Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\* *, Yihe Tang\*, Stone Tao\*, Xinyue Wei\*, Yunchao Yao\*, Xiaodi Yuan, Pengwei Xie, Zhiao Huang, Rui Chen, Hao Su\n
 /\* equally contributed authors are ordered by alphabets/\n
@@ -93,7 +93,7 @@ Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\
 ~~~
 
 ~~~
-{}{img_left}{figures/active.jpg}{active}{207}
+{}{img_left}{figures/active.jpg}{active}{240}
 *[https://arxiv.org/abs/2201.11924 Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation]*\n
 Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, *Tongzhou Mu*, Jing Xu, Hao Su\n
 /IEEE Transactions on Robotics *(T-RO)* 2023/\n
@@ -103,7 +103,7 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 === 2022
 
 ~~~
-{}{img_left}{figures/inter_rl.jpg}{inter_rl}{207}
+{}{img_left}{figures/inter_rl.jpg}{inter_rl}{240}
 *[https://arxiv.org/abs/2201.08520 Learning Two-Step Hybrid Policy for Graph-Based Interpretable Reinforcement Learning]*\n
 *Tongzhou Mu*, Kaixiang Lin, Feiyang Niu, Govind Thattai\n
 /Transactions on Machine Learning Research *(TMLR)* 2022/\n
@@ -113,7 +113,7 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 === 2021
 
 ~~~
-{}{img_left}{figures/mani_skill.jpg}{ManiSkill}{207}
+{}{img_left}{figures/ms1.gif}{ManiSkill}{240}
 {{<span style="background-color:LemonChiffon">}}
 *[https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]*\n
 *Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
@@ -131,7 +131,7 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 === 2020
 
 #~~~
-#{}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{207}
+#{}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{240}
 #*[https://arxiv.org/abs/2011.00971 {{<font color=orange>}}Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals {{</font>}}]*\n
 #*Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
 #/Conference on Neural Information Processing Systems *(NeurIPS)* 2020/\n
@@ -142,7 +142,7 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 #~~~
 
 ~~~
-{}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{207}
+{}{img_left}{figures/policy_refactorization.jpg}{policy_refactorization}{240}
 {{<span style="background-color:LemonChiffon">}}
 *[https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]*\n
 *Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
@@ -156,7 +156,7 @@ Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghu
 
 #\n
 ~~~
-{}{img_left}{figures/sail.jpg}{sail}{207}
+{}{img_left}{figures/sail.jpg}{sail}{240}
 *[https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]*\n
 Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
 /International Conference on Learning Representations *(ICLR)* 2020/\n
@@ -167,7 +167,7 @@ Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
 
 #\n
 ~~~
-{}{img_left}{figures/value_transfer.jpg}{value_transfer}{207}
+{}{img_left}{figures/value_transfer.jpg}{value_transfer}{240}
 *[https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]*\n
 Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
 /Deep Reinforcement Learning Workshop at *NeurIPS* 2018/\n
@@ -175,7 +175,7 @@ Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
 
 #\n
 ~~~
-{}{img_left}{figures/doubly_sgd.jpg}{doubly_sgd}{207}
+{}{img_left}{figures/doubly_sgd.jpg}{doubly_sgd}{240}
 *[https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]*\n
 Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
 /International Joint Conference on Artificial Intelligence *(IJCAI)* 2017/\n
@@ -183,7 +183,7 @@ Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
 
 #\n
 ~~~
-{}{img_left}{figures/adaptive_vr.jpg}{adaptive_vr}{207}
+{}{img_left}{figures/adaptive_vr.jpg}{adaptive_vr}{240}
 *[https://www.ijcai.org/Proceedings/16/Papers/284.pdf Adaptive Variance Reducing for Stochastic Gradient Descent]*\n
 Zebang Shen, Hui Qian, Tengfei Zhou, and *Tongzhou Mu*\n
 /International Joint Conference on Artificial Intelligence *(IJCAI)* 2016/\n
