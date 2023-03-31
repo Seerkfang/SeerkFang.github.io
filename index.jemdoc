@@ -16,6 +16,7 @@ Email: t3mu \[@\] eng \[DOT\] ucsd \[DOT\] edu\n
 
 \n
 # {{<font color=red size=+0.5>}}I am looking for a *research internship in summer 2023*. Please feel free to contact me!{{</font>}}
+{{<font color=red size=+0.5>}}I am currently working on *learning from demonstrations*. Email me if you are interested in collaboration!{{</font>}}
 
 
 == About me
@@ -30,9 +31,9 @@ I have also spent time at
 [https://research.wormpex.com/ Wormpex AI]
 , and [https://www.amazon.jobs/en/teams/alexa-ai Amazon Alexa AI].
 
-*I am the major contributor of the [https://github.com/haosulab/ManiSkill ManiSkill benchmark]*, 
+*I am the major developer of the 1st version of [https://github.com/haosulab/ManiSkill ManiSkill benchmark]*, 
 and the lead organzier of the [https://sapien.ucsd.edu/challenges/maniskill2021/ ManiSkill Challenge 2021] and the [https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/ Generalizable Policy Learning in the Physical World Workshop].
-
+I also actively contribute to the development of the subsequent generations of ManiSkill, e.g., [https://maniskill2.github.io/ ManiSkill 2] and ManiSkill 3.
 
 == Research interests
 My research interests include 
@@ -199,6 +200,9 @@ Zebang Shen, Hui Qian, Tengfei Zhou, and *Tongzhou Mu*\n
 
 
 == Talks
+- *Learning Neural Structrued Policy via Policy Refactorization*\n
+/Ph.D. Thesis Proposal at UC San Diego/, Mar 2023 (slides coming soon)\n
+
 - [https://drive.google.com/file/d/1F4xvLWPw20tJ010G5IH47-bfrg5TB6PC/view?usp=share_link *Boosting Reinforcement Learning and Planning with Demonstrations*]\n
 /Ph.D. Research Exam at UC San Diego/, Jan 2023\n
 
@@ -218,12 +222,16 @@ Zebang Shen, Hui Qian, Tengfei Zhou, and *Tongzhou Mu*\n
 - *Challenge Organizer*: 
     -- [https://sapien.ucsd.edu/challenges/maniskill/2021/ SAPIEN ManiSkill Challenge 2021] (*Lead Organzier*)
     -- [https://sapien.ucsd.edu/challenges/maniskill/2022/ SAPIEN ManiSkill Challenge 2022]
-- *Conference Reviewer*: ICLR, NeurIPS, ICRA, IROS, ICCV, AAAI
+- *Conference Reviewer*: 
+    -- /Machine Learning/: ICLR, NeurIPS, AAAI
+    -- /Robotics/: ICRA, IROS
+    -- /Computer Vision/: ICCV
 - *Journal Reviewer*: RA-L
 
 == Teaching
-- *Consultant Volunteer*: CSE291-J00 Deep Learning Lab (Computer Vision) at UC San Diego, Fall 2020
 - *Teaching Assistant*: CSE 152 Introduction to Computer Vision at UC San Diego, Fall 2018
+- *Consultant Volunteer*: CSE291-J00 Deep Learning Lab (Computer Vision) at UC San Diego, Fall 2020
+- *Guest Lecturer*: CSE291-A00 Machine Learning for Robotics at UC San Diego, Winter 2023
 
 == Awards 
 - [https://icpc.global/regionals/results ACM-ICPC (International Collegiate Programming Contest)] Asia Regional Contest *Gold Medal*, 2015
