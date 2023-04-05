@@ -46,7 +46,7 @@ My research interests include
     -- Reasoning over Concepts
 - *Robotics \/ Embodied AI*
     -- Planning and Control for Manipulation
-    -- Building Tasks in Simulation
+    -- Building Full-Physical Tasks in Simulator
 
 == Publications & Preprints
 Papers sorted by years. Representative papers are {{<span style="background-color:LemonChiffon">}}highlighted{{</span>}}.
@@ -77,7 +77,9 @@ Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
 /ArXiv preprint, Submitted to ICML 2023/\n
 /Deep Rieinforcement Learning Workshop at *NeurIPS* 2022/\n
 [https://trajectorytranslation.github.io/ \[Project Page\]]
-[https://www.youtube.com/watch?v=M1NA5j6DWHs \[Video\]]\n
+[https://www.youtube.com/watch?v=M1NA5j6DWHs \[Video\]]
+[https://github.com/StoneT2000/trajectorytranslation \[Code\]]
+[https://drive.google.com/file/d/1ut-VU9_jA0ILVrzYLpEDlUbyCIX45OTV/view?usp=sharing \[Slides\]]\n
 \* Stone Tao and Xiaochen Li are undergruduate students I advised
 {{</span>}}
 ~~~
