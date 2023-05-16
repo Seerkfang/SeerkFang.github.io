@@ -55,18 +55,18 @@ Papers sorted by years. Representative papers are {{<span style="background-colo
 
 ~~~
 {}{img_left}{figures/drs.gif}{drs}{240}
-*[https://drive.google.com/file/d/1FaBzvi7P8KPD8-mbeytBLkg4VbshOwqw/view?usp=sharing Learning Reusable Dense Rewards for Multi-Stage Tasks]*\n
+*[https://sites.google.com/view/neurips23drs Learning Reusable Dense Rewards for Multi-Stage Tasks]*\n
 *Tongzhou Mu*, Minghua Liu, Hao Su\n
-/Submitted to ICML 2023/\n
-# [https://sites.google.com/view/icml2023drs \[Project Page\]]
-[https://drive.google.com/file/d/1FaBzvi7P8KPD8-mbeytBLkg4VbshOwqw/view?usp=sharing \[Video\]]
+/Submitted to NeurIPS 2023/\n
+[https://sites.google.com/view/neurips23drs \[Project Page\]]
+# [https://drive.google.com/file/d/1FaBzvi7P8KPD8-mbeytBLkg4VbshOwqw/view?usp=sharing \[Video\]]
 ~~~
 
 ~~~
 {}{img_left}{figures/no_pretrain.png}{no_pretrain}{240}
 *[https://arxiv.org/abs/2212.05749 On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline]*\n
 Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajeswaran\+, Hao Su\+, Huazhe Xu\+, Xiaolong Wang\+\n
-/ArXiv preprint, Submitted to ICML 2023/\n
+/International Conference on Machine Learning *(ICML)* 2023/\n
 /Pre-training Robot Learning Workshop at *CoRL* 2022/\n
 ~~~
 
@@ -75,7 +75,7 @@ Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajesw
 {{<span style="background-color:LemonChiffon">}}
 *[https://arxiv.org/abs/2210.07658 Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization]*\n
 Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
-/ArXiv preprint, Submitted to ICML 2023/\n
+/International Conference on Machine Learning *(ICML)* 2023/\n
 /Deep Rieinforcement Learning Workshop at *NeurIPS* 2022/\n
 [https://trajectorytranslation.github.io/ \[Project Page\]]
 [https://www.youtube.com/watch?v=M1NA5j6DWHs \[Video\]]
