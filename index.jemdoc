@@ -15,14 +15,14 @@ Email: seerkfang \[@\] gmail \[DOT\] com\n
 ~~~
 
 \n
-# {{<font color=red size=+0.5>}}I am looking for a *research internship and Ph.D. position in fall2023*. Please feel free to contact me!{{</font>}}
-{{<font color=red size=+0.5>}}I am currently working on *natural language reasoning and planning for Embodied AI*. Email me if you are interested in collaboration!{{</font>}}
+{{<font color=red size=+0.5>}}I am looking for a *Ph.D. position in fall 2024 and research internship anytime*. Please feel free to contact me!{{</font>}}
 
+{{<font color=red size=+0.5>}}I am currently working on *natural language reasoning and planning for Embodied AI*. Email me if you are interested in collaboration!{{</font>}}
 
 == About me
 I am a Master candidate in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
 
-My long-term research goal is to build an embodyAI framework with generalizable perception and compositional skills. 
+My long-term research goal is to build an Embodied AI framework with generalizable perception and compositional skills. 
 Specifically, I am interested in *Natural Language Processing, Concept Emergence and Reasoning, and Robotics \/ Embodied AI*. 
 
 Prior to starting as a Master student, I received my B.Eng. in Electronic Engineering from [https://www.zju.edu.cn/english/ Zhejiang University].
@@ -30,16 +30,16 @@ I have also spent time at [https://www.microsoft.com/en-us/research/lab/microsof
 
 == Research interests
 My research interests include 
-- *Reinforcement Learning \/ Imitation Learning*
-    -- Sturctured Policies and Neural Programs
-    -- Learning from Demonstrations
-    -- Curriculum in RL
-- *Concept Discovery*
-    -- Emerged Concepts from Interactions
+- *Perception*
+    -- Generalizable Representation for 2D and 3D
+    -- Vision Language Models
+- *Concept Emergence*
+    -- Emerged Concepts from Data Recipe
     -- Reasoning over Concepts
-- *Robotics \/ Embodied AI*
-    -- Planning and Control for Manipulation
-    -- Building Full-Physical Tasks in Simulator
+    -- Exploration and Planning for Language Models
+- *Embodied AI*
+    -- Compositional Low-level Skills
+    -- General Sequence Modeling
 
 == Publications & Preprints
 Papers sorted by years. Representative papers are {{<span style="background-color:LemonChiffon">}}highlighted{{</span>}}.
