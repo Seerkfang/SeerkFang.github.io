@@ -50,8 +50,10 @@ Papers sorted by years. Representative papers are {{<span style="background-colo
 
 ~~~
 {}{img_left}{figures/fyh/verify_cot.jpg}{verify_cot}{240}
+*[https://arxiv.org/pdf/2306.03872.pdf Deductive Verification of Chain-of-Thought Reasoning]*\n
 Zhan Ling\*, *Yunhao Fang\**, Xuanlin Li, Zhiao Huang, Hao Su\n
 /Submitted to NeurIPS 2023/\n
+[https://github.com/lz1oceani/verify_cot \[Code\]]\n
 ~~~
 
 == Awards 
