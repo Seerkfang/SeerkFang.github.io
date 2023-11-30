@@ -32,14 +32,17 @@ My research interests include
     -- Senergy of Vision Language Models
     -- Generalizable Representation for 2D and 3D
 
-- *Concept Emergence*
-    -- Emerged Concepts from Data Recipe
-    -- Reasoning over Concepts
-    -- Exploration and Planning of Language Models
+- *Reasoning and Common Sense*
+    -- Emerged Concepts and Common Sense from Data
+    -- Reasoning over Common Sense and Formal Systems
 
 - *Embodied AI*
     -- Compositional Low-level Skills
     -- General Sequence Modeling
+
+- *Artificial General Intelligence*
+    -- General Decision Making
+    -- Creative Agents
 
 == Publications & Preprints
 Papers sorted by years. Representative papers are {{<span style="background-color:LemonChiffon">}}highlighted{{</span>}}.
