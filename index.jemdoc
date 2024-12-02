@@ -11,57 +11,39 @@ Email: seerkfang \[@\] gmail \[DOT\] com\n
 [https://www.linkedin.com/in/yunhao-fang-8b318221a/ LinkedIn]
 ~~~
 
-\n
-{{<font color=red size=+0.5>}}I am seeking a *Ph.D. position for fall 2025* or a *full-time employment* opportunity. Please feel free to contact me!{{</font>}}
-
-{{<font color=red size=+0.5>}}I am currently working on *large language model* and *vision language model* for decision making agents. Email me if you are interested in collaboration!{{</font>}}
-
 == About me
-I got my Master degree in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
-
-Prior to starting as a Master student, I received my B.Eng. in Electronic Engineering from [https://www.zju.edu.cn/english/ Zhejiang University].
+I'm a Research Scientist Intern at Nvidia, supervised by Dr. Jason Lu[https://research.nvidia.com/person/yao-lu-jason] and Prof. Song Han[https://hanlab.mit.edu/songhan], and a core contributor to Nvidia’s multimodal model. VILA[https://github.com/NVlabs/VILA]. I hold a Master's degree from the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], where I was fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su]. Before that, I earned my B.Eng. in Electronic Engineering from [https://www.zju.edu.cn/english/ Zhejiang University].
 I have also spent time at [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ Shanghai AI Laboratory], as the maintainer of the opensource codebase [https://github.com/open-mmlab/mmtracking mmtracking].
 
-My long-term research goal is to build a automatic learning system with generalizable perception and beyond-human level decision making capabilities.
+My long-term research goal is to develop automated learning system that integrate closed-loop data pipelines, efficient algorithms, and robust evaluation tools, advancing the frontiers of *multimodal intelligence*.
 
 == Research interests
 My research interests include 
 - *Perception*
-    -- Senergy of Vision Language Models
-    -- Generalizable Representation for Multimodal Signals
+    -- Generalized Representation
+    -- Synergy between Understanding and Generation
 
 - *Reasoning and Common Sense*
     -- Concept Emergence and Common Sense
-    -- Reasoning over Common Sense and Formal Systems (Verification)
+    -- Advanced Reasoning for Scientific Discoveries
 
-- *Embodied AI*
-    -- General Sequence Modeling
-    -- Efficient Learning from (Human or AI) Feedback
+- *Generative Modeling*
+    -- Efficient World Model
+    -- Learning from (Human or AI) Feedback
 
-- *Artificial General Intelligence*
-    -- General Decision Making
-    -- Creative Agents
-
-== Publications & Preprints
-Papers sorted by years. Representative papers are {{<span style="background-color:LemonChiffon">}}highlighted{{</span>}}.
+== Selected Publications & Preprints
+Papers sorted by years. The full list is available on Google Scholar[https://scholar.google.com/citations?user=vrYHLMgAAAAJ&hl=en].
 
 === 2024
 
 ~~~
 {}{img_left}{figures/fyh/vila^2_teaser.jpg}{vila^2}{240}
-*[https://arxiv.org/pdf/2407.17453.pdf VILA^2: VILA Augmented VILA]*\n
+*[https://arxiv.org/pdf/2407.17453.pdf VILA^2: VLM Augmented VLM with Self-Improvement]*\n
 *Yunhao Fang\**, Ligeng Zhu*, Yao Lu, Yan Wang, Pavlo Molchanov, Jang Hyun Cho, Marco Pavone, Song Han, Hongxu Yin\n
 /In Submission/\n
 ~~~
 
 === 2023
-
-~~~
-{}{img_left}{figures/fyh/hierarchical_exploration.jpg}{hierarchical_exploration}{240}
-*[https://arxiv.org/pdf/2311.00694.pdf Unleashing the Creative Mind: Language Model as Hierarchical Policy For Improved Exploration on Challenging Problem Solving]*\n
-Zhan Ling, *Yunhao Fang*, Xuanlin Li, Tongzhou Mu, Mingu Lee, Mingu Lee, Reza Pourreza, Roland Memisevic, Hao Su\n
-/In Submission/\n
-~~~
 
 ~~~
 {}{img_left}{figures/fyh/verify_cot.jpg}{verify_cot}{240}

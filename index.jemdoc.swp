@@ -3,199 +3,85 @@
 
 ~~~
 {}{img_left}{photos/fyh.jpg}{Yunaho Fang}{160}{160}
-Master candidate,\n
-[https://cse.ucsd.edu/ Department of Computer Science and Engineering],\n
-[https://www.ucsd.edu/ University of California San Diego]\n
+Research Scientist Intern,\n
+Nvidia\n
 Email: seerkfang \[@\] gmail \[DOT\] com\n
-[https://scholar.google.com/citations?user=uVsZydYAAAAJ&hl=en Google Scholar] \/ 
-[https://dblp.org/pid/183/0943.html DBLP] \/ 
-[https://twitter.com/tongzhou_mu Twitter] \/
-[https://github.com/tongzhoumu Github] \/ 
-[https://www.linkedin.com/in/tongzhou-mu-4ab269ba/ LinkedIn]
+[https://twitter.com/home Twitter] \/
+[https://github.com/Seerkfang Github] \/ 
+[https://www.linkedin.com/in/yunhao-fang-8b318221a/ LinkedIn]
 ~~~
 
 \n
-# {{<font color=red size=+0.5>}}I am looking for a *research internship and Ph.D. position in fall2023*. Please feel free to contact me!{{</font>}}
-{{<font color=red size=+0.5>}}I used to work on 2D and 3D perception. I am currently working on *natural language reasoning and planning for embody AI*. Email me if you are interested in collaboration!{{</font>}}
+{{<font color=red size=+0.5>}}I am seeking a *Ph.D. position for fall 2025* or a *full-time employment* opportunity. Please feel free to contact me!{{</font>}}
 
+{{<font color=red size=+0.5>}}I am currently working on *large language model* and *vision language model* for decision making agents. Email me if you are interested in collaboration!{{</font>}}
 
 == About me
-I am a Master candidate in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
-My long-term research goal is to *build an embodyAI framework with generalizable perception and compositional skills*. 
-Specifically, I am interested in *Natural Language Processing, Concept Emergence and Reasoning, and Robotics \/ Embodied AI*. 
+I got my Master degree in the [https://cse.ucsd.edu/ Department of Computer Science and Engineering] at the [https://www.ucsd.edu/ University of California San Diego], and I am fortunate to be advised by Prof. [https://cseweb.ucsd.edu/~haosu/ Hao Su].
 
-Prior to starting as a Master student, II received my B.Eng. in Electronic Engineering from [https://www.zju.edu.cn/english/ Zhejiang University].
-I have also spent time at 
-[https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ Shanghai AI Laboratory], as the maintainer of the opensource codebase [https://github.com/open-mmlab/mmtracking mmtracking].
+Prior to starting as a Master student, I received my B.Eng. in Electronic Engineering from [https://www.zju.edu.cn/english/ Zhejiang University].
+I have also spent time at [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ Shanghai AI Laboratory], as the maintainer of the opensource codebase [https://github.com/open-mmlab/mmtracking mmtracking].
+
+My long-term research goal is to build a automatic learning system with generalizable perception and beyond-human level decision making capabilities.
 
 == Research interests
 My research interests include 
-- *Reinforcement Learning \/ Imitation Learning*
-    -- Sturctured Policies and Neural Programs
-    -- Learning from Demonstrations
-    -- Curriculum in RL
-- *Concept Discovery*
-    -- Emerged Concepts from Interactions
-    -- Reasoning over Concepts
-- *Robotics \/ Embodied AI*
-    -- Planning and Control for Manipulation
-    -- Building Full-Physical Tasks in Simulator
+- *Perception*
+    -- Senergy of Vision Language Models
+    -- Generalizable Representation for Multimodal Signals
+
+- *Reasoning and Common Sense*
+    -- Concept Emergence and Common Sense
+    -- Reasoning over Common Sense and Formal Systems (Verification)
+
+- *Embodied AI*
+    -- General Sequence Modeling
+    -- Efficient Learning from (Human or AI) Feedback
+
+- *Artificial General Intelligence*
+    -- General Decision Making
+    -- Creative Agents
 
 == Publications & Preprints
 Papers sorted by years. Representative papers are {{<span style="background-color:LemonChiffon">}}highlighted{{</span>}}.
 
+=== 2024
+
+~~~
+{}{img_left}{figures/fyh/vila^2_teaser.jpg}{vila^2}{240}
+*[https://arxiv.org/pdf/2407.17453.pdf VILA^2: VILA Augmented VILA]*\n
+*Yunhao Fang\**, Ligeng Zhu*, Yao Lu, Yan Wang, Pavlo Molchanov, Jang Hyun Cho, Marco Pavone, Song Han, Hongxu Yin\n
+/In Submission/\n
+~~~
+
 === 2023
 
 ~~~
-{}{img_left}{figures/mtz/drs.gif}{drs}{240}
-*[https://sites.google.com/view/neurips23drs Learning Reusable Dense Rewards for Multi-Stage Tasks]*\n
-*Tongzhou Mu*, Minghua Liu, Hao Su\n
-/Submitted to NeurIPS 2023/\n
-[https://sites.google.com/view/neurips23drs \[Project Page\]]
-# [https://drive.google.com/file/d/1FaBzvi7P8KPD8-mbeytBLkg4VbshOwqw/view?usp=sharing \[Video\]]
+{}{img_left}{figures/fyh/hierarchical_exploration.jpg}{hierarchical_exploration}{240}
+*[https://arxiv.org/pdf/2311.00694.pdf Unleashing the Creative Mind: Language Model as Hierarchical Policy For Improved Exploration on Challenging Problem Solving]*\n
+Zhan Ling, *Yunhao Fang*, Xuanlin Li, Tongzhou Mu, Mingu Lee, Mingu Lee, Reza Pourreza, Roland Memisevic, Hao Su\n
+/In Submission/\n
 ~~~
 
 ~~~
-{}{img_left}{figures/mtz/no_pretrain.png}{no_pretrain}{240}
-*[https://arxiv.org/abs/2212.05749 On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline]*\n
-Nicklas Hansen\*, Zhecheng Yuan\*, Yanjie Ze\*, *Tongzhou Mu\* *, Aravind Rajeswaran\+, Hao Su\+, Huazhe Xu\+, Xiaolong Wang\+\n
-/International Conference on Machine Learning *(ICML)* 2023/\n
-/Pre-training Robot Learning Workshop at *CoRL* 2022/\n
+{}{img_left}{figures/fyh/verify_cot.jpg}{verify_cot}{240}
+*[https://arxiv.org/pdf/2306.03872.pdf Deductive Verification of Chain-of-Thought Reasoning]*\n
+Zhan Ling\*, *Yunhao Fang\**, Xuanlin Li, Zhiao Huang, Hao Su\n
+/Neural Information Processing Systems *(NeurIPS)* 2023/\n
+[https://github.com/lz1oceani/verify_cot \[Code\]]\n
 ~~~
 
 ~~~
-{}{img_left}{figures/mtz/skill_trans.gif}{skill_trans}{240}
-{{<span style="background-color:LemonChiffon">}}
-*[https://arxiv.org/abs/2210.07658 Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization]*\n
-Stone Tao, Xiaochen Li, *Tongzhou Mu*, Zhiao Huang, Yuzhe Qin, Hao Su\n
-/International Conference on Machine Learning *(ICML)* 2023/\n
-/Deep Rieinforcement Learning Workshop at *NeurIPS* 2022/\n
-[https://trajectorytranslation.github.io/ \[Project Page\]]
-[https://www.youtube.com/watch?v=M1NA5j6DWHs \[Video\]]
-[https://github.com/StoneT2000/trajectorytranslation \[Code\]]
-[https://drive.google.com/file/d/1ut-VU9_jA0ILVrzYLpEDlUbyCIX45OTV/view?usp=sharing \[Slides\]]\n
-\* Stone Tao and Xiaochen Li are undergruduate students I advised
-{{</span>}}
+{}{img_left}{figures/fyh/vlm_distillation.jpg}{vlm_distillation}{240}
+*[https://arxiv.org/pdf/2307.03135 Distilling Large Vision-Language Model with Out-of-Distribution Generalizability]*\n
+Xuanlin Li\*, *Yunhao Fang\**, Minghua Liu, Zhan Ling, Zhuowen Tu, Hao Su\n
+/International Conference on Computer Vision *(ICCV)* 2023/\n
+[https://github.com/xuanlinli17/large_vlm_distillation_ood \[Code\]]\n
 ~~~
 
-~~~
-{}{img_left}{figures/mtz/demo_rl.jpg}{demo_rl}{240}
-*[https://arxiv.org/abs/2303.13489 Boosting Reinforcement Learning and Planning with Demonstrations: A Survey]*\n
-*Tongzhou Mu*, Hao Su\n
-/ArXiv preprint/\n
-[https://drive.google.com/file/d/1F4xvLWPw20tJ010G5IH47-bfrg5TB6PC/view?usp=share_link \[Slides\]]
-~~~
-
-~~~
-{}{img_left}{figures/mtz/ms2_fancy_teaser.jpg}{maniskill2}{240}
-*[https://arxiv.org/abs/2302.04659 ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills]*\n
-Jiayuan Gu, Fanbo Xiang, Xuanlin Li\*, Zhan Ling\*, Xiqiang Liu\*, *Tongzhou Mu\* *, Yihe Tang\*, Stone Tao\*, Xinyue Wei\*, Yunchao Yao\*, Xiaodi Yuan, Pengwei Xie, Zhiao Huang, Rui Chen, Hao Su\n
-/\* equally contributed authors are ordered by alphabets/\n
-/International Conference on Learning Representations *(ICLR)* 2023/\n
-[https://github.com/haosulab/ManiSkill2 \[Code\]]
-[https://maniskill2.github.io/ \[Project Page\]]
-[https://sapien.ucsd.edu/challenges/maniskill2022/ \[Challenge Website\]]
-~~~
-
-~~~
-{}{img_left}{figures/mtz/active.jpg}{active}{240}
-*[https://arxiv.org/abs/2201.11924 Close the Optical Sensing Domain Gap by Physics-Grounded Active Stereo Sensor Simulation]*\n
-Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, *Tongzhou Mu*, Jing Xu, Hao Su\n
-/IEEE Transactions on Robotics *(T-RO)* 2023/\n
-~~~
-
-
-=== 2022
-
-~~~
-{}{img_left}{figures/mtz/inter_rl.jpg}{inter_rl}{240}
-*[https://arxiv.org/abs/2201.08520 Learning Two-Step Hybrid Policy for Graph-Based Interpretable Reinforcement Learning]*\n
-*Tongzhou Mu*, Kaixiang Lin, Feiyang Niu, Govind Thattai\n
-/Transactions on Machine Learning Research *(TMLR)* 2022/\n
-/Elements of Reasoning: Objects, Structure, and Causality Workshop at *ICLR* 2022/\n
-~~~
-
-=== 2021
-
-~~~
-{}{img_left}{figures/mtz/ms1.gif}{ManiSkill}{240}
-{{<span style="background-color:LemonChiffon">}}
-*[https://arxiv.org/abs/2107.14483 ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations]*\n
-*Tongzhou Mu\* *, Zhan Ling\*, Fanbo Xiang\*, Derek Yang\*, Xuanlin Li\*, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su\n
-/Conference on Neural Information Processing Systems *(NeurIPS)* Datasets and Benchmarks Track 2021/\n
-[https://drive.google.com/file/d/127NOQigxP7bTZ8USxBJd_eOKxNeju4em/view?usp=sharing \[Video\]]
-[https://drive.google.com/file/d/10CWlGUbtFXPek0p3HRpYdnVZM1asi0wO/view?usp=sharing \[Slides\]]
-[https://drive.google.com/file/d/1aY6C6smsA6B02JCVEWB_mV58VlaUpum0/view?usp=sharing \[Poster\]]
-[https://github.com/haosulab/ManiSkill \[Code\]]
-[https://github.com/haosulab/ManiSkill-Learn \[Baselines\]]
-[https://sapien.ucsd.edu/challenges/maniskill2021/ \[Challenge Website\]]
-{{</span>}}
-~~~
-
-
-=== 2020
-
-#~~~
-#{}{img_left}{figures/mtz/policy_refactorization.jpg}{policy_refactorization}{240}
-#*[https://arxiv.org/abs/2011.00971 {{<font color=orange>}}Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals {{</font>}}]*\n
-#*Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
-#/Conference on Neural Information Processing Systems *(NeurIPS)* 2020/\n
-#[https://jiayuan-gu.github.io/policy-refactorization \[Project Page\]]
-#[https://jiayuan-gu.github.io/policy-refactorization/files/poster_policy_refactorization.pdf \[Poster\]]
-#[https://jiayuan-gu.github.io/policy-refactorization/files/slides_policy_refactorization.pdf \[Slides\]]
-#[https://github.com/Jiayuan-Gu/policy-refactorization \[Code\]]\n
-#~~~
-
-~~~
-{}{img_left}{figures/mtz/policy_refactorization.jpg}{policy_refactorization}{240}
-{{<span style="background-color:LemonChiffon">}}
-*[https://arxiv.org/abs/2011.00971 Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals]*\n
-*Tongzhou Mu\* *, Jiayuan Gu\*, Zhiwei Jia, Hao Tang, Hao Su\n
-/Conference on Neural Information Processing Systems *(NeurIPS)* 2020/\n
-[https://jiayuan-gu.github.io/policy-refactorization \[Project Page\]]
-[https://jiayuan-gu.github.io/policy-refactorization/files/poster_policy_refactorization.pdf \[Poster\]]
-[https://jiayuan-gu.github.io/policy-refactorization/files/slides_policy_refactorization.pdf \[Slides\]]
-[https://github.com/Jiayuan-Gu/policy-refactorization \[Code\]]\n
-{{</span>}}
-~~~
-
-#\n
-~~~
-{}{img_left}{figures/mtz/sail.jpg}{sail}{240}
-*[https://arxiv.org/abs/1911.10947 State Alignment-based Imitation Learning]*\n
-Fangchen Liu, Zhan Ling, *Tongzhou Mu*, Hao Su\n
-/International Conference on Learning Representations *(ICLR)* 2020/\n
-~~~
-
-\n
-=== Before 2019
-
-#\n
-~~~
-{}{img_left}{figures/mtz/value_transfer.jpg}{value_transfer}{240}
-*[https://drive.google.com/file/d/0B_utB5Y8Y6D5T3FGRF9Ic3RQU1NYNmV4N2hGckRiTmVJRFhv/view Transfer Value or Policy? A Value-centric Framework Towards Transferrable Continuous Reinforcement Learning]*\n
-Xingchao Liu\*, *Tongzhou Mu\* *, Hao Su\n
-/Deep Reinforcement Learning Workshop at *NeurIPS* 2018/\n
-~~~
-
-#\n
-~~~
-{}{img_left}{figures/mtz/doubly_sgd.jpg}{doubly_sgd}{240}
-*[https://www.ijcai.org/Proceedings/2017/0378.pdf Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization]*\n
-Zebang Shen, Hui Qian, *Tongzhou Mu*, and Chao Zhang\n
-/International Joint Conference on Artificial Intelligence *(IJCAI)* 2017/\n
-~~~
-
-#\n
-~~~
-{}{img_left}{figures/mtz/adaptive_vr.jpg}{adaptive_vr}{240}
-*[https://www.ijcai.org/Proceedings/16/Papers/284.pdf Adaptive Variance Reducing for Stochastic Gradient Descent]*\n
-Zebang Shen, Hui Qian, Tengfei Zhou, and *Tongzhou Mu*\n
-/International Joint Conference on Artificial Intelligence *(IJCAI)* 2016/\n
-~~~
 
 == Awards 
-- Chinese National Scholarship, 2022
+- China National Scholarship, 2022
 \n
 
 #[publications.html Full list of publications].
